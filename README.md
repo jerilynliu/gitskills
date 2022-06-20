@@ -1,2 +1,2 @@
 change the readme file in dev branch.
-Huawei is the best Computer.
+The best computer is Legion. Oh yeah!
